@@ -1,16 +1,25 @@
-## Hi there 👋
+# Gabriel Anastácio 👨‍💻
 
-<!--
-**DevGabrielcz/DevGabrielcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Gabriel Anastácio, estudante de programação focado em me tornar um desenvolvedor Full-Stack. Busco minha primeira oportunidade profissional na área de tecnologia.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que Domino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 🎯 Em Aprendizado
+- JavaScript
+- React
+- Node.js
+- Banco de Dados
+
+## 📞 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-devfront-1657992a4)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevGabrielcz)
+
+---
+
+⭐ *"O sucesso é a soma de pequenos esforços repetidos dia após dia."* - Robert Collier
