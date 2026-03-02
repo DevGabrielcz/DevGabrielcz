@@ -16,8 +16,8 @@ Olá! Sou Gabriel Anastácio, estudante de programação focado em me tornar um 
 - Banco de Dados
 
 ## 📞 Conecte-se Comigo
-(61)99822-0037
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-devfront-1657992a4)
+(61)99822-0037 <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-devfront-1657992a4)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevGabrielcz)
 
 ---
